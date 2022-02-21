@@ -9,7 +9,7 @@ Link 🔗 https://ma-budget.web.app
 
 <img src="https://github.com/muzi-official/Expense-Tracker-/blob/master/lightMuz.PNG" />
 
-<img src="https://github.com/muzi-official/Expense-Tracker-/blob/master/darktMuz.PNG" />
+<img src="https://github.com/muzi-official/Expense-Tracker-/blob/master/darkMuz.PNG" />
 
 
 React Functional components and their reusability
