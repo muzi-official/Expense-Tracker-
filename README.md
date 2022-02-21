@@ -3,13 +3,13 @@
 <h1>Demo Link</h1>
 
 <h1>Live Site</h1>
-Link 🔗 https://ma-budgetapp.web.app
+Link 🔗 https://ma-budget.web.app
 
 <br /><br/>
 
-<img src="https://github.com/muzi-official/MA-GPT3/blob/master/darkMuz.PNG" />
+<img src="https://github.com/muzi-official/Expense-Tracker/blob/master/darkMuz.PNG" />
 
-<img src="https://github.com/muzi-official/MA-GPT3/blob/master/lightMuz.PNG" />
+<img src="https://github.com/muzi-official/Expense-Tracker/blob/master/lightMuz.PNG" />
 
 
 React Functional components and their reusability
