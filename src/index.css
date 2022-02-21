@@ -1,0 +1,21 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.darkMode {
+  transition: "transform 0.2s linear";
+  background: #262626 !important;
+}
+
+.lightMode {
+  transition: "transform 0.2s linear";
+  background-color: #e0e5ec !important;
+}

@@ -1,0 +1,26 @@
+.footer {
+  height: 3rem;
+  width: 100% !important;
+  font-size: 13px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.footerDark {
+  transition: 0.1s;
+  background: #292727;
+  color: #f5f2f2 !important;
+}
+
+.footerLight {
+  border-top: 2px solid rgb(226, 226, 226);
+  transition: 0.1s;
+  color: rgba(34, 48, 74) !important;
+  background: #e0e5ec;
+}
+
+.footer a {
+  line-height: 3rem;
+  color: rgb(41, 101, 190) !important;
+  text-decoration: none;
+  font-size: 14px !important;
+}

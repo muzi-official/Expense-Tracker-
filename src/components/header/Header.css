@@ -1,0 +1,28 @@
+.navbar {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.navbar img {
+  width: 100px;
+  height: 50px;
+  animation: flicker 1.5s infinite alternate !important;
+}
+
+.darkNav {
+  background: #292727;
+}
+
+.lightNav {
+  border-bottom: 2px solid rgb(226, 226, 226);
+  transition: 0.1s;
+  color: rgba(34, 48, 74) !important;
+  background: #e0e5ec;
+}
+
+.darkText {
+  color: #f5f2f2 !important;
+}
+
+.lightText {
+  color: rgb(17, 23, 34) !important;
+}
